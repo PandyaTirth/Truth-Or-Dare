@@ -1,0 +1,29 @@
+.RollDice {
+    display: flex;
+    flex-flow: column nowrap;
+  }
+  .RollDice-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  .RollDice button {
+    align-self: center;
+    width: 15em;
+    padding: 1em;
+    font-size: 1.2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    background-color: #057EA0;
+  }
+  
+  .RollDice button:hover {
+    /* background-color: #3E82C4; */
+    cursor: pointer;
+    color: #111; 
+    background: #14e7ff; 
+    box-shadow: 0 0 50px #14e7ff;
+  }
+  
