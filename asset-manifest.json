@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Truth-Or-Dare/static/css/main.43ca2c5f.chunk.css",
+    "main.js": "/Truth-Or-Dare/static/js/main.a00e0dfe.chunk.js",
+    "main.js.map": "/Truth-Or-Dare/static/js/main.a00e0dfe.chunk.js.map",
+    "runtime-main.js": "/Truth-Or-Dare/static/js/runtime-main.cfdf2c6b.js",
+    "runtime-main.js.map": "/Truth-Or-Dare/static/js/runtime-main.cfdf2c6b.js.map",
+    "static/js/2.3a1a4e2b.chunk.js": "/Truth-Or-Dare/static/js/2.3a1a4e2b.chunk.js",
+    "static/js/2.3a1a4e2b.chunk.js.map": "/Truth-Or-Dare/static/js/2.3a1a4e2b.chunk.js.map",
+    "index.html": "/Truth-Or-Dare/index.html",
+    "precache-manifest.1e7cb63cc5adbe3efcf089bf3051a0a3.js": "/Truth-Or-Dare/precache-manifest.1e7cb63cc5adbe3efcf089bf3051a0a3.js",
+    "service-worker.js": "/Truth-Or-Dare/service-worker.js",
+    "static/css/main.43ca2c5f.chunk.css.map": "/Truth-Or-Dare/static/css/main.43ca2c5f.chunk.css.map",
+    "static/js/2.3a1a4e2b.chunk.js.LICENSE.txt": "/Truth-Or-Dare/static/js/2.3a1a4e2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfdf2c6b.js",
+    "static/js/2.3a1a4e2b.chunk.js",
+    "static/css/main.43ca2c5f.chunk.css",
+    "static/js/main.a00e0dfe.chunk.js"
+  ]
+}
